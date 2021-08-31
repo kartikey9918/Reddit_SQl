@@ -1,4 +1,4 @@
-# TradeMarkia_SQl
+SQl
 Data model is used to organize the data elements and analysing how data elements are related to another data elements and the data model represents the real world things whic are living and non living example dogs can bite , human can drink water and house have an doors ,etc. this are the real world things whic your seeable
 
 some of the requiremnets to satisfied the data model in the structure query language they are,
